@@ -1,4 +1,4 @@
-# Multi-Processor-Scheduling-Simulation-
+# Multi-Processor-Scheduling-Simulation-(C++20 + Semaphores)
 A modular C++20 simulation of OS scheduling with 8 processors and 2 short-term schedulers, built using threads and semaphores to enforce concurrency, fairness, and synchronization.
 
 
